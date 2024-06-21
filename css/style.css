@@ -97,7 +97,7 @@ body {
     transition: 0.5s;
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: #c2000030;
 }
 
